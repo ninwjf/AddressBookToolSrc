@@ -1,0 +1,12 @@
+﻿# Compiled Object files
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+bin/*
+AddressBookTool/bin/*
+AddressBookTool/obj/*
+IPAddressControlLib/bin/*
+IPAddressControlLib/obj/*
+AddressBookToolSetup_*.exe
